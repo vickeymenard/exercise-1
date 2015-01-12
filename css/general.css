@@ -1,0 +1,40 @@
+html{
+	background-color: #c83438;
+}
+
+body{
+	text-align: center;
+}
+
+h1{
+	color: #a67a67;
+	text-align: center;
+	padding-top: 2em;
+	font-family: 'Alfa Slab One', cursive;
+	font-size: 60px;
+	padding-bottom: 1em;
+	text-shadow: 3px 3px 10px black;
+}
+
+h2{
+	font-family: arial;
+	color: #1c1a1b;
+	padding-top: 4em;
+	font-weight: lighter;
+	text-transform: uppercase;
+}
+
+p{
+	font-family: 'Alfa Slab One', cursive;
+	text-transform: uppercase;
+	color: white;
+	font-size: 30px;
+}
+
+.icons{
+	background-color: white;
+	border: 2px solid black;
+	border-radius: 25px;
+	padding: 4em;
+	margin-right: 3em;
+}
